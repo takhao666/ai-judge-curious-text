@@ -12,7 +12,7 @@ A program that writes one short text to `/output/entry.txt`: a text written to m
 node main.ts
 ```
 
-It writes `/output/entry.txt` (UTF-8, 247 characters). No network, no dependencies.
+It writes `/output/entry.txt` (UTF-8, 255 characters). No network, no dependencies.
 
 ---
 
